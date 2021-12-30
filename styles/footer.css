@@ -1,0 +1,33 @@
+/* FOOTER */
+
+footer {
+    width: 100%;
+    background: #000000;
+    height: 6rem;
+    display: grid;
+
+    place-items: center;
+}
+footer span {
+    text-align: center;
+    margin-top: 2rem;
+    font-size: .7rem;
+}
+
+.social-media {
+    list-style: none;
+    padding: 0;
+}
+.social-media li {
+    display: inline-block;
+}
+.social-media a{
+    padding: .5rem;
+    font-size: 1.5rem;
+}
+.arrow-up {
+    position:absolute;
+    right: 0;
+    font-size: 2rem;
+    margin: 10px;
+}

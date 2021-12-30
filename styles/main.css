@@ -1,0 +1,43 @@
+/* BODY MAIN */
+.main-content ul {
+    list-style: none;
+    text-align: center;
+}
+
+.main-content ul li {
+    padding-bottom: 3rem;
+    margin-bottom: 3rem;
+    border-bottom: 1px solid;
+
+    display: grid;
+    place-items: center;
+    justify-content: center;
+}
+
+.main-content h2 {
+    margin: 1rem 0;
+    background: lightgrey;
+    padding: 1rem;
+    width: 100%;
+}
+
+.main-content img {
+    margin-bottom: 2rem;
+}
+
+.main-content a.btn {
+    background: var(--button);
+
+    text-decoration: none;
+    font-size: 16px;
+    text-transform: uppercase;
+
+    padding: 1rem 3rem;
+    border-radius: 8px;
+    
+    cursor: pointer;
+    transition: .3s;
+}
+.main-content a.btn:hover {
+    filter: brightness(.5);
+}

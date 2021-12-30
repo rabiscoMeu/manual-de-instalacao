@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;       
+    scroll-behavior: smooth;
+ }
+
+:root {
+    --main-menu: #000000; 
+    --menu-button: #2D2D2D;  
+    --button: #131313;
+    --font-color-light: #fff; 
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    -webkit-font-smoothing: antialiased;
+}
+i, a, span {
+    color: var(--font-color-light);
+}
