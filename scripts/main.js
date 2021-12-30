@@ -28,7 +28,8 @@ function fillTheManualList() {
              role="button" 
              href="${manualItens.file}" 
              download"${manualItens.title}" 
-             target="_blank" 
+             target="_blank"
+             title="baixar - ${manualItens.title}" 
             >
                <i class="fas fa-file-download"></i>
                download
