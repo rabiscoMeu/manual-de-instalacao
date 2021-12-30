@@ -1,0 +1,39 @@
+[
+
+    {
+        "title":"facebook",
+        "url_profiles": "https://www.facebook.com/RabiscoMeuOficial",   
+        "icons": "fab fa-facebook"
+    },
+
+    {
+        "title":"instagram",
+        "url_profiles": "https://www.instagram.com/rabiscomeuoficial",
+        "icons": "fab fa-instagram"
+    },
+    
+    {
+        "title":"pinterest",
+        "url_profiles": "https://br.pinterest.com/rabiscomeuoficial/",
+        "icons": "fab fa-pinterest"
+    },
+
+    {
+        "title":"website",
+        "url_profiles": "https://rabiscomeu.com.br",
+        "icons": "fas fa-globe"
+    },
+
+    {   
+        "title":"contato",
+        "url_profiles": "https://rabiscomeu.com.br/p/contato",
+        "icons": "fas fa-envelope"
+    },
+
+    {
+        "title":"todos produtos",
+        "url_profiles": "https://rabiscomeu.com.br/nossos-produtos",
+        "icons": "fas fa-shopping-bag"
+    }
+    
+]

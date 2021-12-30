@@ -1,0 +1,46 @@
+[ 
+    {       
+      "id": "1",
+      "title": "manual de instalação - gancho de parede",
+      "html_url": "gan-parede",
+      "image": "./images/manual/manual-gancho-parede.svg",
+      "description": "manual gancho de parede",
+      "manual_file_path": "./images/manual-pdf/manual-gancho-parede.pdf",
+      "icon_title": "gancho de parede",
+      "icon_src": "./images/gancho-de-parede.svg"
+    },
+    
+    {  
+      "id": "2",
+      "title": "manual de instalação - cabideiro de parede / porta chave",
+      "html_url": "cab-parede",
+      "image": "./images/manual/manual-cab-parede.svg",
+      "description": "manual cabideiro de parede",
+      "manual_file_path": "./images/manual-pdf/manual-cab-parede.pdf",
+      "icon_title": "cabideiro de parede & porta chave",
+      "icon_src": "./images/cabideiro-de-parede.svg"
+    },
+    
+    {
+      "id": "3",
+      "title": "manual de instalação - cabideiro de parede picolé",
+      "html_url": "cab-parede-pic",
+      "image": "./images/manual/manual-cab-parede-picole.svg",
+      "description": "manual cabideiro de parede picolé",
+      "manual_file_path": "./images/manual-pdf/manual-cab-picole.pdf",
+      "icon_title": "cabideiro tipo picolé",
+      "icon_src": "./images/cabideiro-de-parede-picole.svg"
+    },
+
+    {
+      "id": "4",
+      "title": "manual de instalação - puxador",
+      "html_url": "puxador",
+      "image": "./images/manual/manual-puxador.svg",
+      "description": "manual puxador",
+      "manual_file_path": "./images/manual-pdf/manual-puxador.pdf",
+      "icon_title": "puxador",
+      "icon_src": "./images/puxador.svg"
+    }
+    
+]
