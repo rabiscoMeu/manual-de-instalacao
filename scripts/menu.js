@@ -51,7 +51,7 @@ function addFeaturesMenuItems() {
    const closeMenu = document.querySelector(".close-menu")
 
    const menu = document.querySelector('.menu')
-   const itemMenu = document.querySelectorAll('.menu-list li a');
+   const itemMenu = document.querySelector('.menu-list');
 
    openNenu.addEventListener('click', () => {
       menu.classList.remove('hide');
@@ -63,12 +63,10 @@ function addFeaturesMenuItems() {
       openNenu.style.display = 'block';
    })
 
-   // closes menu when link is clicked
-   itemMenu.forEach(item => {
-      item.addEventListener('click', () => {
-         menu.classList.add('hide');
-         openNenu.style.display = 'block';
-      })
+   // close menu if link is clicked
+   itemMenu.addEventListener('click', () => {
+      menu.classList.add('hide');
+      openNenu.style.display = 'block';
    })
 
 } activeMenu()
